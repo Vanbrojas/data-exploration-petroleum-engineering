@@ -1,8 +1,8 @@
 
 # Data Exploration in Petroleum Engineering
 
-This project was created as part of my career transition into the Data Engineering field.
-Although my formal education is in Petroleum Engineering from Escola Politécnica at USP, my main focus now is developing skills in programming, data analysis, and visualization using various datasets as a learning context.
+This project was created as part of my career transition into Data Engineering.
+My main focus is developing skills in programming, data analysis, and visualization using various datasets as a learning context.
 
 ## About Me
 
